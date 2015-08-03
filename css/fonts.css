@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Cybran;
+    src: url('../fonts/zero_threes/zeroes_three.ttf');
+}
+@font-face {
+    font-family: UEF;
+    src: url('../fonts/butterbelly/butterbelly.ttf');
+}
+@font-face {
+    font-family: SupCom;
+    src: url('../fonts/gunship/gunship.ttf');
+}
+@font-face {
+    font-family: SupCom-Narrow;
+    src: url('../fonts/gunship/gunshipcond.ttf');
+}
+@font-face {
+    font-family: Seraphim;
+    src: url('../fonts/wintermute/wintermute.ttf');
+}
+@font-face {
+    font-family: Aeon;
+    src: url('../fonts/xenotron/XENOTRON.TTF');
+}
+
+/* 
+NOTE: the font license from typodermicfonts.com forbids the above font embedding under
+the existing license. The above are provided as examples to detail which font is for which
+race and should not actually be used for the following Typodermic Fonts:
+    - Butterbelly
+    - Zeroes_Three
+    - Wintermute
+
+Gunship is provided with an unlimited non-commercial use license, Xenotron did not come with 
+any license (that I could find).
+*/
