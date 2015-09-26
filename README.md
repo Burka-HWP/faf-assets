@@ -14,8 +14,16 @@ This repository is a collection of my own work and those of others. If you feel 
 
 [GitHub user Spooky](https://github.com/spooky/unitdb) - Initial collection/creation of the unit icons **(images/strategic)**, avatars **(images/units)**, arenas **(images/arenas)**, and the energy, health, mass, and time attribute graphics **(images/attributes)**.
 
-[FAForever Forums user Navras](http://www.faforever.com/forums/viewtopic.php?f=2&t=5484&start=10) - FAF logo from the logo creation thread on the FAForever forums **(images/faf) (images/favicon)**. Resized and modified by myself.
+[FAForever Forums user Navras](http://www.faforever.com/forums/viewtopic.php?f=2&t=5484&start=10) - FAF logo from the logo creation thread on the FAForever forums **(images/faf) (images/faf-solid) (images/favicon)**. Resized and modified by myself.
                
 ### Fonts
 
-... to be continued
+The following fonts are included:
+- Zeroes Three
+- Butterbelly
+- Wintermute
+- Xenotron
+- Gunship
+- Gunship Condensed
+
+Licences are included in the **fonts/** directory. Not all are licenced for html embedding. Xenotron was missing a licence. 
