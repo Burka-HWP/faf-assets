@@ -58,6 +58,7 @@
             "LodCutoff": "UnitMove_LodCutoff"
         }
     },
+    "BlueprintID": "UES0304",
     "Buffs": {
         "Regen": {
             "Level1": 3,

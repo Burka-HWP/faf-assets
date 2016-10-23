@@ -125,6 +125,7 @@
             "LodCutoff": "UnitMove_LodCutoff"
         }
     },
+    "BlueprintID": "XSL0001",
     "BuffFields": {
         "AdvancedRegenField": "SeraphimAdvancedACURegenBuffField",
         "RegenField": "SeraphimACURegenBuffField"

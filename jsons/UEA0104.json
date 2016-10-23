@@ -95,6 +95,7 @@
         }
     },
     "AverageDensity": 1,
+    "BlueprintID": "UEA0104",
     "Buffs": {
         "Regen": {
             "Level1": 2,

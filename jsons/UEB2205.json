@@ -23,6 +23,7 @@
             "LodCutoff": "UnitMove_LodCutoff"
         }
     },
+    "BlueprintID": "UEB2205",
     "Buffs": {
         "Regen": {
             "Level1": 2,

@@ -48,6 +48,7 @@
             "LodCutoff": "UnitMove_LodCutoff"
         }
     },
+    "BlueprintID": "XSB2401",
     "Buffs": {
         "Regen": {
             "Level1": 10,

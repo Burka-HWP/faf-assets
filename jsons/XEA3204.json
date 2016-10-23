@@ -90,6 +90,7 @@
             "LodCutoff": "UnitMove_LodCutoff"
         }
     },
+    "BlueprintID": "XEA3204",
     "Categories": [
         "SELECTABLE",
         "UEF",

@@ -60,6 +60,7 @@
             "LodCutoff": "UnitMove_LodCutoff"
         }
     },
+    "BlueprintID": "XRL0403",
     "Buffs": {
         "Regen": {
             "Level1": 10,

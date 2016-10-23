@@ -74,6 +74,7 @@
             "LodCutoff": "UnitMove_LodCutoff"
         }
     },
+    "BlueprintID": "UEA0302",
     "BuildIconSortPriority": 20,
     "Categories": [
         "PRODUCTSC1",

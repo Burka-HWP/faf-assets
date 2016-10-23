@@ -21,6 +21,7 @@
         "StartTurnDistance": 5,
         "Winged": false
     },
+    "BlueprintID": "URA0001",
     "Categories": [
         "CONSTRUCTION",
         "ENGINEER",

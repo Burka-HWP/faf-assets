@@ -38,6 +38,7 @@
             "LodCutoff": "UnitMove_LodCutoff"
         }
     },
+    "BlueprintID": "URB0102",
     "BuildIconSortPriority": 20,
     "Categories": [
         "PRODUCTSC1",

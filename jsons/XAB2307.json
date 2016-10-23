@@ -27,6 +27,7 @@
             "LodCutoff": "UnitMove_LodCutoff"
         }
     },
+    "BlueprintID": "XAB2307",
     "Buffs": {
         "Regen": {
             "Level1": 3,

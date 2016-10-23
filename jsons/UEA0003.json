@@ -75,6 +75,7 @@
             "LodCutoff": "UnitMove_LodCutoff"
         }
     },
+    "BlueprintID": "UEA0003",
     "Categories": [
         "SELECTABLE",
         "UEF",

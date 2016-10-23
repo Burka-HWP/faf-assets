@@ -75,6 +75,7 @@
         }
     },
     "AverageDensity": 1,
+    "BlueprintID": "XSA0203",
     "Buffs": {
         "Regen": {
             "Level1": 2,

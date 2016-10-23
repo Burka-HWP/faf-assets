@@ -41,6 +41,7 @@
             "LodCutoff": "UnitMove_LodCutoff"
         }
     },
+    "BlueprintID": "DRLK005",
     "BuildIconSortPriority": 30,
     "Categories": [
         "PRODUCTDL",

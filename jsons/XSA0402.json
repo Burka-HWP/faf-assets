@@ -90,6 +90,7 @@
             "LodCutoff": "UnitMove_LodCutoff"
         }
     },
+    "BlueprintID": "XSA0402",
     "Buffs": {
         "Regen": {
             "Level1": 15,

@@ -42,6 +42,7 @@
             "LodCutoff": "UnitMove_LodCutoff"
         }
     },
+    "BlueprintID": "DRLK001",
     "Buffs": {
         "Regen": {
             "Level1": 3,
